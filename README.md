@@ -198,7 +198,7 @@ if __name__ == '__main__':
 ![alt text](https://github.com/Mars12121/my_own_collection/blob/main/img/7.png)
 
 **Шаг 11.** Создайте playbook для использования этой role.
-
+ 
 Ответ:
 ![alt text](https://github.com/Mars12121/my_own_collection/blob/main/img/8.png)
 
