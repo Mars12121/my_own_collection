@@ -227,7 +227,8 @@ if __name__ == '__main__':
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
 
 Collection - [1.0.0](https://github.com/Mars12121/my_own_collection/releases/tag/1.0.0)
-Архив tar.gz - []
+
+Архив tar.gz - [my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz](https://github.com/Mars12121/my_own_collection/blob/main/collection_install/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
 
 ## Необязательная часть
 
