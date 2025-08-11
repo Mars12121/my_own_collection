@@ -1,0 +1,9 @@
+---
+- name: Test my_own_module
+  hosts: localhost
+  tasks:
+  - name: Execute module
+    my_own_module:
+      path: "/tmp/test.txt"
+      content: "Test"
+      
